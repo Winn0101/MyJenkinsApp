@@ -23,7 +23,7 @@ YELLOW = (255, 255, 0)
 GREEN = (0, 255, 0)
 PURPLE = (128, 0, 128)
 RED = (255, 0, 0)
-BROWN = (128, 128, 128)
+GRAY = (128, 128, 128)
 DARK_GRAY = (64, 64, 64)
 
 # Tetris pieces (tetrominoes) with their rotations
