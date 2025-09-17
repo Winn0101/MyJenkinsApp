@@ -1,0 +1,2 @@
+pygame==2.5.2
+flask==2.3.2pygame==2.5.2
